@@ -13,4 +13,4 @@ I learned Angular JS in 2015 and I like it, although I sometime was quite angry 
 
 # How far am I ?
 
-For the moment I've just started the tutorial.
+I have finished it.
